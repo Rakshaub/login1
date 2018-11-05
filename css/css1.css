@@ -1,0 +1,17 @@
+body{background-color:pink}
+label 
+{
+	font-size:20px;
+	font-weight:bold; 
+    padding: 12px 20px 12px 0;
+    display: inline-block;
+}
+button
+{	
+	cursor:pointer;
+
+}
+#m_h
+{
+	display:inline-block;
+}
